@@ -664,5 +664,6 @@ internal class Program
         Console.WriteLine("\n아무키나 누르세요.");
         Console.ReadKey();
 
+        Console.Clear();
     }
 }
